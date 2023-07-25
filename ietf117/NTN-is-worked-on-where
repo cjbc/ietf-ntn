@@ -1,0 +1,49 @@
+	       Where is NTN being worked on these days?
+      A auick perspective of SDOs, EU work programmes and others
+
+Author: Alexandre PETRESCU
+Date: July 25th, 2023
+For: IETF side meeting about 'Satellite Communications'
+     https://github.com/cjbc/ietf-ntn/tree/main/ietf117 (thanks Carlos)
+
+The concept of Non-Terrestrial Networks (NTN) is currently being
+addressed, worked on, and defined at a few places.  The term probably
+originated at ITU a few years ago.  Since then it was used extensively
+at 3GPP.  Currently, I see the NTN term being the main focus at these
+places:
+
+- NWM at ETSI "SA2 Rel-19 23Q3 moderated discussion - Satellite
+  Architecture Enhancements", need NWM ETSI account for it.  Deadline
+  about end of July.  https://nwm-trial.etsi.org/#/documents/8525
+  
+- SSIG#62/28th July 2023 meeting: 1st draft of the Rel-19 NTN package
+  proposal for discussion.  It is a group in the fringes of 3GPP.
+  Feedback needed before July 27th.  Email.
+
+- EU: NTN integral part in the current consultation about the work
+  programme of year 2024 for EU SNS work programme (the future EU
+  calls for projects related to 6G).  Consultation, about many other
+  topics, incuding NTN, within the SNS partnership until about end of
+  August.  See the private document draft-orientations-2024.pdf,
+  accessible to SNS partners.
+
+- EU: definition of the Work Programme 2025 of Cluster 4 of Horizon
+  Europe, destination 'Space'.  Contact the National Contact Points in
+  Europe.
+
+- Europe and larger: ESA has many calls for projects ongoing about
+  'NTN'.  See the ESA Star portal, keyword 'NTN'.
+
+- many private company efforts to put 5G base stations at higher
+  altitudes and space, an example is lynk.global but there are more.
+
+- there is a particular relationship between Europe's IRIS²
+  constellation project and NTN, although it is not clear whether they
+  are equal.
+
+- the ISOC's "Perspective on LEO Satellites" document was written
+  about new Internet constellations, although it does not say 'NTN'.
+  It is also possible that 'NTN' is not about constellations at all.
+  https://www.internetsociety.org/wp-content/uploads/2022/11/Perspectives-on-LEO-Satellites.pdf
+
+  
